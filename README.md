@@ -1,7 +1,7 @@
 # Hi, I'm Ayomide Ajadi 👋
 
 > **Electrical Electronics Student | AI/ML Developer | Embedded Systems Enthusiast**
-> Ladoke Akintola University of Technology (LAUTECH)
+> at Ladoke Akintola University of Technology (LAUTECH)
 
 I am a Nigerian developer focused on building practical AI solutions that address real-world challenges across Africa — from healthcare to agriculture to media integrity.
 
